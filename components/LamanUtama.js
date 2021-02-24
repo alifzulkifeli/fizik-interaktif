@@ -61,11 +61,6 @@ Gas.</p>
 
         </div>
       </div>
-
-
-
-
-
     </section >
   )
 }
