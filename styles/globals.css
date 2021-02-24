@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Purple+Purse&family=Quando&display=swap');
+
 ::-webkit-scrollbar {
 	width: 0px;
 	background: transparent; /* make scrollbar transparent */
